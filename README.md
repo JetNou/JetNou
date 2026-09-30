@@ -1,16 +1,43 @@
-## Hi there 👋
+# Fullstack Developer
 
-<!--
-**JetNou/JetNou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Web applications • Backend • Telegram bots
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Fullstack developer focused on building scalable web
+applications and backend services.
+
+I work with both frontend and backend technologies,
+from database design to responsive interfaces.
+
+---
+
+## Tech Stack
+
+### Backend
+`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Docker`
+
+### Frontend
+`JavaScript` `TypeScript` `React` `Next.js`
+`Zustand` `React Hook Form` `Zod`
+`HTML` `CSS` `SCSS` `Vite`
+
+### Other
+`Git` `Linux`
+
+---
+
+## Projects
+
+My projects ↓
+
+[ Project ] [ Project ] [ Project ]
+
+---
+
+## Focus
+
+Fullstack Development · Web Applications · APIs ·
+Telegram Bots
